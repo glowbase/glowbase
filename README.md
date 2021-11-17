@@ -7,4 +7,5 @@
     <br />
     <img height="150px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/CreateAndManageCloudResources.png" />
     <img height="150px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/BuildAndSecureNetworks.png" />
+    <img height="150px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/PerformFoundationalInfrastructureTasks.png" />
 </p>
