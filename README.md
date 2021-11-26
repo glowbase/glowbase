@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/.svg" />
+    <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Microsoft_Certified_Azure_Fundamentals.svg" />
     <br/>
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Cloud_Engineering.png"/>
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Cloud_Architecture.png"/>
