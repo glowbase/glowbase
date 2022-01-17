@@ -10,7 +10,7 @@
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/DevOps_Essentials.png"/>
     <br/>
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Networking_in_Google_Cloud.png"/>
-    <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Networking_in_Google_Cloud.png"/>
+    <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Reliable_Google_Cloud_Infrastructure_Design_and_Process.png"/>
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Essential_Google_Cloud_Infrastructure_Core_Services.png"/>
     <img height="160px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Essential_Google_Cloud_Infrastructure_Foundation.png" />
 </p>
