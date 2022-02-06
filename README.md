@@ -1,6 +1,7 @@
 <p align="center">
     <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/Microsoft_Certified_Azure_Fundamentals.svg" />
     </br>
+    <script src="https://www.hackthebox.eu/badge/200316"></script>
     <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/HPE_GreenLake_Administrator.png" />
     <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/HPE_Fast_Start_ProLiant_Gen10.png" />
     <img height="190px" width="auto" src="https://raw.githubusercontent.com/glowbase/glowbase/master/img/HPE_Fast_Start_Networking.png" />
