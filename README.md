@@ -1,6 +1,9 @@
 <p align="center">
     <img src="http://www.hackthebox.eu/badge/image/200316" alt="Hack The Box">
     </br>
+    </br>
+    <img height="180px" width="auto" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png" />
+    </br>
     <img height="190px" width="auto" src="https://images.credly.com/size/340x340/images/f938ecba-d406-432a-9cec-ae5f2ac92a94/image.png" />
     <img height="220px" width="auto" src="https://images.credly.com/size/340x340/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png" />
     <br />
