@@ -1,12 +1,23 @@
-<p align="center">
-    <img src="http://www.hackthebox.eu/badge/image/200316" alt="Hack The Box">
-    </br>
-    </br>
-    <img height="180px" width="auto" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png" />
-    </br>
-    <img height="190px" width="auto" src="https://images.credly.com/size/340x340/images/f938ecba-d406-432a-9cec-ae5f2ac92a94/image.png" />
-    <img height="220px" width="auto" src="https://images.credly.com/size/340x340/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png" />
-    <br />
-    <img height="190px" width="auto" src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" />
-    <img height="190px" width="auto" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" />
+<!-- HERO SECTION -->
+<p align="left">
+
+<span style="color:#f59e0b; font-family: monospace; font-size:18px;">
+Hi, my name is
+</span>
+
 </p>
+
+<h1 align="left">
+<b>Cooper.</b>
+</h1>
+
+<p align="left">
+
+I'm a senior cyber security analyst focused on large scale monitoring and detection, coordinating incident response within Australia's fourth largest network.
+
+</p>
+
+<br>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
