@@ -1,6 +1,6 @@
 <p>Hi, my name is</p>
-<h1>Cooper.</h1>
-<p>I'm a senior cyber security analyst focused on detection engineering and security operations uplift within one of Australia's largest networks.</p>
+<h1>Cooper</h1>
+<p>I'm a senior cyber security analyst focused on detection engineering, capability uplift and integration of artificial intelligence within defensive cyber operations for one of Australia's largest networks.</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
